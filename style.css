@@ -95,6 +95,7 @@ button {
   .container {
     margin: 1rem;
     padding: 1.5rem;
+    flex-direction: column;
   }
 
   .intro,
