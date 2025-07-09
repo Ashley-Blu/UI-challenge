@@ -1,0 +1,14 @@
+Single Price Grid Component
+A responsive front-end challenge built with HTML and CSS, inspired by Frontend Mentor. 
+This project features a simple, centered pricing component with a clean layout, rounded corners, and mobile-friendly design.
+
+Project Structure
+index.html
+style.css
+README.md
+
+Technologies used
+HTML5
+CSS
+Google fonts(Karla)
+Media Queries for responsiveness
